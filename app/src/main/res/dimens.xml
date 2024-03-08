@@ -1,0 +1,6 @@
+<resources>
+    <!-- Other dimensions definitions -->
+
+    <!-- Example: -->
+    <dimen name="box_inset_layout_padding">16dp</dimen>
+</resources>
